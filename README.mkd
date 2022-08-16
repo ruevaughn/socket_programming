@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=LtXEMwSG5-8&t=1s
+make tcp_server
+make tcp_client
+cc tcp_client.c  -o tcp_client
